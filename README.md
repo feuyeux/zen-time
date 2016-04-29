@@ -1,5 +1,5 @@
 # Zen-Time
-A NLP Services on Spark.
+A NLP Micro-Service on Spark.
 
 ![](zen-time.png)
 
